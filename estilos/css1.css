@@ -44,3 +44,22 @@ footer {
     text-align: center;
     padding: 20px;
 }
+/* 🔥 CARDS (intereses) */
+.card {
+    background-color: white; /* fondo blanco */
+    padding: 20px; /* espacio interno */
+    margin: 20px 0; /* separación entre cards */
+    border-radius: 10px; /* bordes redondeados */
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.1); /* sombra */
+}
+
+/* 🎨 TITULOS DE CARDS */
+.card h2 {
+    color: #ff4d6d; /* rosa */
+}
+
+/* 📦 MEJORAMOS MAIN */
+main {
+    width: 600px;
+    margin: 40px auto;
+}
